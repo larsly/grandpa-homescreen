@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grandpa-homescreen/static/css/main.1c1f88ed.css",
+    "main.js": "/grandpa-homescreen/static/js/main.2a6531f4.js",
+    "static/js/453.5d8789cc.chunk.js": "/grandpa-homescreen/static/js/453.5d8789cc.chunk.js",
+    "index.html": "/grandpa-homescreen/index.html",
+    "main.1c1f88ed.css.map": "/grandpa-homescreen/static/css/main.1c1f88ed.css.map",
+    "main.2a6531f4.js.map": "/grandpa-homescreen/static/js/main.2a6531f4.js.map",
+    "453.5d8789cc.chunk.js.map": "/grandpa-homescreen/static/js/453.5d8789cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1f88ed.css",
+    "static/js/main.2a6531f4.js"
+  ]
+}
